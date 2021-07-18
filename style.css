@@ -1,0 +1,66 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.heading{
+    font-size: 23px;
+    font-weight: bold;
+    margin: 0px;
+    width: 100%;
+   
+}
+
+.note{
+    font-size: 15px;
+    font-style: unset;
+color:black;
+}
+
+#divspeed{
+    float: left;
+}
+#speed{
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bolder;
+    color: black;
+    margin: 15px;
+}
+
+#speedimg{
+    width: 200px;
+   
+border-radius: 100px;
+}
+
+#volimg{
+    width: 200px;
+border-radius: 100px;
+}
+
+#divol{
+    float: right;
+}
+
+#vol{
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bolder;
+    color: black;
+    margin: 15px;
+}
+
+.play_button{
+    width: 150px;
+    height: 50px;
+    font-family: fantasy;
+    font-size: 25px;
+}
+
+canvas{
+box-shadow: 5px 5px 5px black;
+border: groove 5px gray;
+border-radius: 40px;
+}
+
